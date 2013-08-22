@@ -1,0 +1,1 @@
+08-07 02:43:02.474: W/System.err(325): 	at android.view.ViewGroup.drawChild(ViewGroup.java:1638)
